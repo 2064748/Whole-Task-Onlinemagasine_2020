@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="190" height="83" viewBox="0 0 190 83">
+  <defs>
+    <clipPath id="clip">
+      <use xlink:href="#fill"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(-54 -409)">
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(54 409)" fill="rgba(0,0,0,0.67)" stroke="#000" stroke-linejoin="round" stroke-width="100">
+      <rect id="fill" width="190" height="83" stroke="none"/>
+      <path d="M0,33h190M140,0v83M190,50h-190M50,83v-83" fill="none" clip-path="url(#clip)"/>
+    </g>
+    <text id="Back" transform="translate(105.5 462.5)" fill="#fff" font-size="31" font-family="Verdana-Bold, Verdana" font-weight="700" letter-spacing="0.04em"><tspan x="0" y="0">Back</tspan></text>
+  </g>
+</svg>
