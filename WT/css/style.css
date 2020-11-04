@@ -370,7 +370,7 @@ a.fashionback3:hover{
 div.articlepage{
     position: relative;
     width: 100%;
-    height: 1800px;
+    height: 1700px;
     background-color: white;
 }
 
@@ -393,7 +393,7 @@ a.backbutton{
 div.main3{
     position: relative;
     width: 100%;
-    height: 1300px;
+    height: 1600px;
     background-color: white;
     text-align: center;
 }
@@ -401,7 +401,7 @@ div.articlewt{
     position: relative;
     text-align: left;
     width: 990px;
-    height: 1100px;
+    height: 1300px;
     background-color: rgba(137, 137, 207, 0.116);
     top: 1.5%;
     display: inline-block;
@@ -423,7 +423,7 @@ div.info{
     font-family: "Segoe UI";
     font-weight: lighter;
     font-style: italic;
-    top: -8%;
+    top: -7%;
     left: 51%;
 }
 
@@ -438,21 +438,24 @@ img.alice{
 div.arttekst{
     position: relative;
     width: 1000px;
-    height: 1000px;
+    height: 740px;
     left: 0%;
+    top: 10%;
     text-align: center;
 }
 
 div.kolom{
     position: relative;
-    width: 320px;
+    width: 290px;
     display: inline-block;
     margin-top: 29%;
     text-align: justify;
+    margin-left: 0.75%;
 }
 
 img.artimg{
-    width: 288px;
+    width: 260px;
+    margin-left: 5%;;
 }
 
 h2{
@@ -510,6 +513,7 @@ p.art2{
 a.art{
     text-decoration: none;
     color: black;
+    text-decoration: underline;
 }
 
 div.bronnenlijst{
